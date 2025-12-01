@@ -1,2 +1,2 @@
-# practice_right
-practice your right hand for SC2.
+# practice_left
+practice your left hand for SC2.
