@@ -2,7 +2,7 @@
 
 专为星际争霸2 (SC2) 玩家设计的左手快捷键练习软件，帮助你提升左手操作的肌肉记忆和反应速度。
 
-![Screenshot](screenshot.png)
+![Screenshot](docs/screenshot.jpg)
 
 ## ✨ 功能特点
 
